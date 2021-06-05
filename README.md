@@ -1,5 +1,6 @@
 # Amazon Vine Analysis
-*Big Data | PySpark with AWS*
+
+![readme1.png](PNGs/readme1.PNG)
 
 
 ## Overview of the Analysis
