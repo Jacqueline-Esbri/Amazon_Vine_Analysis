@@ -1,6 +1,6 @@
 # Amazon Vine Analysis
 
-![readme1.png](PNGs/readme1.PNG)
+![readme.PNG](PNGs/readme.png)
 
 
 ## Overview of the Analysis
@@ -34,7 +34,7 @@ There were 26,946 reviews in total. Out of that total, 22 were Vine (paid) revie
 There was a total of 14,452 5-star reviews. Out of that total, 13 were 5-star Vine reviews, and 12,485 were 5-star non-Vine reviews.
 
 
-![5-star.png](PNGs/5-star.PNG)
+![5-star.PNG](PNGs/5-star.png)
 
 
 ***What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?***
@@ -46,7 +46,7 @@ There was a total of 14,452 5-star reviews. Out of that total, 13 were 5-star Vi
 - The percentage of 5-star non-Vine of total 5-star reviews was 86%
 
 
-![perc.png](PNGs/perc.PNG)
+![perc.PNG](PNGs/perc.png)
 
 
 ## Summary
