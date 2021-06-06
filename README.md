@@ -19,7 +19,8 @@ PySpark was used to perform the ETL process and to connect the data to an AWS RD
 
 ## Results
 
-Using the above resources, the product reviews were counted and grouped by star ratings.
+Using the above resources, the product reviews were counted and grouped by star ratings:
+
 
 ***How many Vine reviews and non-Vine reviews were there?***
 
@@ -39,11 +40,11 @@ There was a total of 14,452 5-star reviews. Out of that total, 13 were 5-star Vi
 
 ***What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?***
 
-- The percentage of total 5-star Vine reviews of total Vine reviews was 59%. 
-- The percentage of 5-star Vine reviews of total 5-star reviews was 9%. 
+- The percentage of total 5-star Vine reviews of total Vine reviews was 59%
+- The percentage of 5-star Vine reviews of total 5-star reviews was 9%
 
-- The percentage of total 5-star non-Vine reviews of total non-Vine reviews was 46%. 
-- The percentage of 5-star non-Vine of total 5-star reviews was 86%
+- The percentage of total 5-star non-Vine reviews of total non-Vine reviews was 46% 
+- The percentage of 5-star non-Vine reviews of total 5-star reviews was 86%
 
 
 ![perc.PNG](PNGs/perc.png)
@@ -51,8 +52,6 @@ There was a total of 14,452 5-star reviews. Out of that total, 13 were 5-star Vi
 
 ## Summary
 
-The results from the analysis seem to suggest that there was not a strong bias toward the Vine program and five-star reviews. Looking at the percentages, we can see that only 9% of total Vine reviews were 5-star reviews. In other words, the total of 5-star reviews was 14,452. Out of that total, only 13 reviews were part of the Vine program. In general, individuals write a review because they absolutely love the product, or truly dislike the product, especially regarding shoes. 
+The results from the analysis seem to suggest that there was not a strong bias toward the Vine program. Looking at the percentages, we can see that out of the total of 5-star reviews only 9% represent the Vine 5-star reviews. In other words, the total of 5-star reviews was 14,452. Out of that total, only 13 reviews were part of the Vine program. The percentage of total 5-star Vine reviews of all Vine reviews was 59%. Although is a little more than half of reviewers, is not strong enough to state there was a positivity bias.
 
-One additional analysis that I would recommend to fully support the analysis is counting the total of women and 5-star reviews, in comparison to men and 5-star reviews. Women tend to love and buy more shoes than men. They also tend to give their honest opinion, regarding fit and comfort. Because we do not have the gender information for this analysis, these numbers may not be an accurate representation of the product's worth, or distribution of the data.
-
-Additionally, the results of the analysis could be further  examined by looking at the distribution of all stars (1-5) reviews.
+In general, individuals write a review because they absolutely love the product, or truly dislike the product, especially regarding shoes. One additional analysis that I would recommend to fully support the analysis is counting the total of women and men in the Vine program. Generally, women tend to love and buy more shoes than men, and also tend to express their honest opinion regarding fit and comfort. Because we do not have the gender information for this analysis, these numbers may not be an accurate representation of the product's worth, or distribution of the data. Additionally, the results of the analysis could be further  examined by looking at the distribution of star-ratings from one to five.
