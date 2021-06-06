@@ -7,7 +7,7 @@
 
 The purpose of this assignment was to learn what constitutes big data and how it is handled. The task led to analyzing Amazon reviews written by members of the paid Amazon Vine program. The goal was to determine if there was any bias in relation to favorable reviews from Vine members in the dataset.
 
-A dataset containing Amazon reviews of a specific product (shoes in this case), was provided. PySpark was used to perform the ETL process and to connect the data to an AWS RDS instance. After the data was transformed, it was loaded into pgAdmin.  In order to analyze the data, we used the following resources: 
+A dataset containing Amazon reviews of a specific product (shoes in this case) was provided. PySpark was used to perform the ETL process and to connect the data to an AWS RDS instance. After the data was transformed, it was loaded into pgAdmin.  In order to analyze the data, we used the following resources: 
 
 - Spark to handle large Datasets
 - Spark DataFrames and functions in Google Colab Notebooks
