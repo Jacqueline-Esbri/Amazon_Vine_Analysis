@@ -41,7 +41,7 @@ Using the above resources, the product reviews were counted and grouped by star 
 ***What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?***
 
 - The percentage of total 5-star Vine reviews of total Vine reviews was 59%
-- The percentage of 5-star Vine reviews of total 5-star reviews was 9%
+- The percentage of 5-star Vine reviews of total 5-star reviews was .09%
 
 - The percentage of total 5-star non-Vine reviews of total non-Vine reviews was 46% 
 - The percentage of 5-star non-Vine reviews of total 5-star reviews was 86%
@@ -52,6 +52,4 @@ Using the above resources, the product reviews were counted and grouped by star 
 
 ## Summary
 
-The results from the analysis seem to suggest that there was not a very strong bias towards the Vine program. Looking at the percentages, we can see that out of the total 5-star reviews only 9% represent the Vine 5-star reviews. In other words, the total 5-star reviews was 14,452, and of that total only 13 reviews were part of the Vine program. The percentage of total 5-star Vine reviews of all Vine reviews was 59%. Although it was a little more than half of reviewers, is was not strong enough to state there was a positivity bias.
-
-In general, individuals write a review because they absolutely love the product, or truly dislike the product, especially regarding shoes. One additional analysis that I would recommend to fully support the analysis is counting the total of women and men in the Vine program. Generally, women tend to love and buy more shoes than men, and also tend to express their honest opinion regarding fit and comfort. Because there was not gender information provided for this analysis, these numbers may not be an accurate representation of the product's reviews, or distribution of the data. Additionally, the results of the analysis could be further  examined by looking at the distribution of star-ratings from one to five.
+The results from the analysis seem to suggest that there was strong bias towards the Vine program. Looking at the percentages, we can see that out of the total 5-star reviews only .09% represent the Vine 5-star reviews. In other words, the total 5-star reviews was 14,452, and of that total only 13 reviews were part of the Vine program. The percentage of total 5-star Vine reviews of all Vine reviews was 59%. It can be stated that there was a positivity bias toward 5-star Vine reviews.
