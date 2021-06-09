@@ -52,4 +52,6 @@ Using the above resources, the product reviews were counted and grouped by star 
 
 ## Summary
 
-The results from the analysis seem to suggest that there was strong bias towards the Vine program. Looking at the percentages, we can see that out of the total 5-star reviews only .09% represent the Vine 5-star reviews. In other words, the total 5-star reviews was 14,452, and of that total only 13 reviews were part of the Vine program. The percentage of total 5-star Vine reviews of all Vine reviews was 59%. It can be stated that there was a positivity bias toward 5-star Vine reviews.
+The results from the analysis indicate a positivity bias towards the Vine program. Looking at the percentages, 59% of reviews were 5-star reviews, compared to 46% of 5-star non-Vine reviews. 
+
+To show a Statistically significant quantity, trend, or deviation from the norm, the results could be further examined by calculating the statistical distribution (mean, median, and mode) of the star rating of Vine and non-Vine reviews. 
