@@ -18,7 +18,7 @@ A dataset containing Amazon reviews of a specific product (shoes in this case) w
 - PySpark methods and functions to transform and filter data, and get DataFrame information 
 - AWS Simple Storage Service (S3)
 - PySpark to perform ETL
-- PostgreSQL
+- SQL & PgAdmin
 - Google Colab Notebook
 
 
