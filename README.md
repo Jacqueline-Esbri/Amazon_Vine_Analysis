@@ -1,18 +1,19 @@
 # Amazon Vine Analysis
 
-![readme.PNG](PNGs/readme.png)
+![mod16.png](PNGs/mod16.png)
 
 
 ## Overview of the Analysis
 
-The purpose of this assignment was to learn what constitutes big data and how it is handled. The task led to analyzing Amazon reviews written by members of the paid Amazon Vine program. The goal was to determine if there was any bias in relation to favorable reviews from Vine members in the dataset.
+The purpose of this assignment was to learn what constitutes big data and how it is handled. The "big data" ecosystem was explored including Hadoop, the four Vs, MapReduce, and Spark. Natural language processing was also covered throughout this project. 
 
-A dataset containing Amazon reviews of a specific product (shoes in this case) was provided. PySpark was used to perform the ETL process and to connect the data to an AWS RDS instance. After the data was transformed, it was loaded into pgAdmin.  In order to analyze the data, we used the following resources: 
+The task entailed analyzing Amazon reviews written by members of the paid Amazon Vine program. The goal was to determine if there was any bias in relation to favorable reviews from Vine members in the dataset.
+
+A dataset containing Amazon reviews of a specific product (shoes in this case) was chosen. PySpark was used to perform the ETL process and to connect the data to an AWS RDS instance. After the data was transformed, it was loaded into pgAdmin. The following resources were used to complete the analysis of an Amazon customer review: 
 
 - Spark to handle large Datasets
 - Spark DataFrames and functions in Google Colab Notebooks
-- Cloud Databases with Amazon Web Services
-- Cloud Storage with S3 on AWS
+- AWS Simple Storage Service (S3)
 - PySpark to perform ETL
 - PostgreSQL
 
@@ -25,7 +26,6 @@ Using the above resources, the product reviews were counted and grouped by star 
 ***How many Vine reviews and non-Vine reviews were there?***
 
 - There were 26,946 reviews in total. Out of that total, 22 were Vine (paid) reviews, and 26,924 non-Vine (unpaid) reviews. 
-
 
 ![vine_pu.PNG](PNGs/vine_pu.png)
 
