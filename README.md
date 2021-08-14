@@ -5,9 +5,9 @@
 
 ## Overview of the Analysis
 
-The purpose of this assignment was to learn what constitutes big data and how it is handled. The "big data" ecosystem was explored including Hadoop, the four Vs, MapReduce, and Spark. Natural language processing was also covered throughout this project. 
+The purpose of this assignment was to learn what constitutes big data and how it is handled. The "big data" ecosystem was explored including Hadoop, the four Vs, MapReduce, and Spark. Natural language processing was also covered as part of the overall assignment. 
 
-The task entailed analyzing Amazon reviews written by members of the paid Amazon Vine program. The goal was to determine if there was any bias in relation to favorable reviews from Vine members in the dataset.
+Amazon reviews written by members of the paid Amazon Vine program were analyzed. The goal was to determine if there was any bias towards favorable reviews from Vine members in the dataset, and if having a paid Vine review made a difference in the percentage of 5-start reviews 
 
 A dataset containing Amazon reviews of a specific product (shoes in this case) was chosen. PySpark was used to perform the ETL process and to connect the data to an AWS RDS instance. After the data was transformed, it was loaded into pgAdmin. The following resources were used to complete the analysis of an Amazon customer review: 
 
